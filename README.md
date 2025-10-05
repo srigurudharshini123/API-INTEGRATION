@@ -77,6 +77,6 @@ Overall, this task helped me gain practical experience in connecting frontend ap
 
 *OUTPUT*
 
-![Image](https://github.com/user-attachments/assets/7d6a4da9-fe3a-4605-b93a-7dc7cb850ac1)
-
 ![Image](https://github.com/user-attachments/assets/7e65c4a6-a1e7-48a9-b224-135cd0fcf815)
+
+![Image](https://github.com/user-attachments/assets/7d6a4da9-fe3a-4605-b93a-7dc7cb850ac1)
