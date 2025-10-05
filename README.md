@@ -62,6 +62,10 @@ STEP3: Open index.html in your browser.
 
 STEP4: Click the “Get New Fact” button to load a random cat fact.
 
+*OUTPUT*
+
+![Image](https://github.com/user-attachments/assets/7e65c4a6-a1e7-48a9-b224-135cd0fcf815)
+
 *OUTCOME*
 By completing this project, I successfully developed a responsive web application that integrates a public API using core web technologies.
 This project strengthened my understanding of API handling, asynchronous JavaScript, and frontend development principles. It also reflects my ability to design user-friendly web interfaces and implement real-time data fetching functionality.
